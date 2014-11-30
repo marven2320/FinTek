@@ -15,3 +15,4 @@ GUI Outline Includes:
 Group Members:
 
 Yuki D. Sakakibara
+Julius Irven Mariquit
