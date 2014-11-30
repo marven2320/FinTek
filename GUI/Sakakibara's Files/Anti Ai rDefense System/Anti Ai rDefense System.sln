@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anti Ai rDefense System", "Anti Ai rDefense System\Anti Ai rDefense System.csproj", "{2100F0AF-A48F-4142-B5D1-EB3112FE57FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2100F0AF-A48F-4142-B5D1-EB3112FE57FC}.Debug|x86.ActiveCfg = Debug|x86
+		{2100F0AF-A48F-4142-B5D1-EB3112FE57FC}.Debug|x86.Build.0 = Debug|x86
+		{2100F0AF-A48F-4142-B5D1-EB3112FE57FC}.Release|x86.ActiveCfg = Release|x86
+		{2100F0AF-A48F-4142-B5D1-EB3112FE57FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

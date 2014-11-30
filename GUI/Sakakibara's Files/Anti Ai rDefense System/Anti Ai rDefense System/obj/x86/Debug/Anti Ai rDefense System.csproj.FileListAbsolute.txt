@@ -1,0 +1,9 @@
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\bin\Debug\Anti Ai rDefense System.exe
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\bin\Debug\Anti Ai rDefense System.pdb
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\Anti_Ai_rDefense_System.Form1.resources
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\Anti_Ai_rDefense_System.Properties.Resources.resources
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\Anti Ai rDefense System.exe
+C:\Documents and Settings\User\my documents\visual studio 2010\Projects\Anti Ai rDefense System\Anti Ai rDefense System\obj\x86\Debug\Anti Ai rDefense System.pdb
