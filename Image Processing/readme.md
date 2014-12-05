@@ -1,4 +1,10 @@
-This is for Image processing
-ana' si Master:
+FinTek
 
-Hello Universe!
+Image processing is the most essential part to start the FinTek Project.
+
+A fixed-positioned camera detects a moving object which is different from the set initial condition.
+The latest open-source library of image processing, OpenCV 2.4.9, offers handy and easy-to-use functions.
+A Visual Studio 2012 also supplements with its user-friendly visual cpp.
+
+Task01 - Video Stream (Target: 1st week of December)
+
