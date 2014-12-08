@@ -6,5 +6,6 @@ A fixed-positioned camera detects a moving object which is different from the se
 The latest open-source library of image processing, OpenCV 2.4.9, offers handy and easy-to-use functions.
 A Visual Studio 2012 also supplements with its user-friendly visual cpp.
 
-Task01 - Video Stream (Target: 1st week of December)
-
+[done] Task01 - Video Stream (Target: 1st week of December)
+[done] Task02 - Object Detection
+[done] Task03 - (to be decided)
