@@ -8,4 +8,4 @@ A Visual Studio 2012 also supplements with its user-friendly visual cpp.
 
 [done] Task01 - Video Stream (Target: 1st week of December)
 [done] Task02 - Object Detection
-[done] Task03 - (to be decided)
+[ongoing] Task03 - Object Detection Using Sequential Technique
